@@ -214,17 +214,9 @@ const Index = () => {
 
                 {/* Social Icons */}
                 <div className="flex space-x-4 mt-6">
+                 
                   <a
-                    href="https://linkedin.com/company/doubledockglobal"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-sidebar-foreground/70 hover:text-primary transition-colors"
-                    aria-label="LinkedIn"
-                  >
-                    <Linkedin className="h-5 w-5" />
-                  </a>
-                  <a
-                    href="https://facebook.com/doubledockglobal"
+                    href="https://www.facebook.com/profile.php?id=61584341857583"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-sidebar-foreground/70 hover:text-primary transition-colors"
