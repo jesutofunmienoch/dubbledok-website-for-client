@@ -15,7 +15,7 @@ const ResearchHub = () => {
             </span>
           </h1>
           <p className="text-lg text-muted-foreground text-center mb-12 max-w-2xl mx-auto">
-            DoubleDock Global’s Research Hub drives innovation through cutting-edge prototype development, grant writing support, and academic collaboration.
+            Dubbledok Global’s Research Hub drives innovation through cutting-edge prototype development, grant writing support, and academic collaboration.
           </p>
           <section className="grid md:grid-cols-3 gap-8 mb-12">
             <div className="text-center">
@@ -43,7 +43,7 @@ const ResearchHub = () => {
           <div className="text-center">
             <h2 className="text-2xl font-semibold mb-4">Ready to Innovate?</h2>
             <p className="text-muted-foreground mb-6">
-              Contact DoubleDock Global to explore how our Research Hub can support your AI/ML initiatives.
+              Contact Dubbledok Global to explore how our Research Hub can support your AI/ML initiatives.
             </p>
             <Button size="lg" className="bg-gradient-hero hover:opacity-90" asChild>
               <a href="mailto:doubledockglobal@gmail.com">Get in Touch</a>
@@ -57,7 +57,7 @@ const ResearchHub = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <img src="/logo.jpg" alt="DoubleDock Global Logo" className="h-8 w-auto" />
-                <span className="text-lg font-bold text-sidebar-foreground">DoubleDock Global</span>
+                <span className="text-lg font-bold text-sidebar-foreground">Dubbledok Global</span>
               </div>
               <p className="text-sidebar-foreground/70 text-sm">
                 Turning Data into Intelligent Decisions with tailored AI/ML solutions.
@@ -90,7 +90,7 @@ const ResearchHub = () => {
           </div>
           <div className="border-t border-sidebar-border mt-8 pt-8 text-center">
             <p className="text-sidebar-foreground/50 text-sm">
-              © 2025 DoubleDock Global. All rights reserved.
+              © 2025 Dubbledok Global. All rights reserved.
             </p>
           </div>
         </div>

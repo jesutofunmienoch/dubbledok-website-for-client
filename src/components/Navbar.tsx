@@ -34,7 +34,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center space-x-2">
             <img src={logoPlaceholder} alt="DoubleDock Global Logo" className="h-8 bg-white w-auto" />
             <span className="text-xl font-bold bg-gradient-hero bg-clip-text text-transparent">
-              DoubleDock Global
+              Dubbledok Global
             </span>
           </Link>
 

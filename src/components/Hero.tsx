@@ -22,7 +22,7 @@ const Hero = () => {
           <img src={logoPlaceholder} alt="DoubleDock Global Logo" className="h-12 mx-auto mb-6" />
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
             <span className="bg-gradient-hero bg-clip-text text-transparent">
-              DoubleDock Global
+              Dubbledok Global
             </span>
             <br />
             <span className="text-foreground">Turning Data into Intelligent Decisions</span>

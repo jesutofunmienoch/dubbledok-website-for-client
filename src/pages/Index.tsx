@@ -59,7 +59,7 @@ const Index = () => {
                 </span>
               </h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                Discover DoubleDock Global’s expertly curated AI/ML solutions to empower your organization.
+                Discover Dubbledok Global’s expertly curated AI/ML solutions to empower your organization.
               </p>
             </div>
 
@@ -84,7 +84,7 @@ const Index = () => {
         <section id="why-choose-us" className="py-20">
           <div className="container mx-auto px-4">
             <div className="text-center mb-16">
-              <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Choose DoubleDock Global?</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Choose Dubbledok Global?</h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
                 Partner with us to unlock the full potential of AI/ML for your organization.
               </p>
@@ -150,7 +150,7 @@ const Index = () => {
               Transform Your Organization with AI
             </h2>
             <p className="text-lg text-white/90 max-w-2xl mx-auto mb-8">
-              Partner with DoubleDock Global to drive innovation and achieve measurable results.
+              Partner with Dubbledok Global to drive innovation and achieve measurable results.
             </p>
             <Button size="lg" variant="secondary" className="bg-white text-primary hover:bg-white/90" asChild>
               <Link to="/auth">
@@ -169,7 +169,7 @@ const Index = () => {
               <div>
                 <div className="flex items-center space-x-2 mb-4">
                   <img src="/logo.jpg" alt="DoubleDock Global Logo" className="h-8 w-auto" />
-                  <span className="text-lg font-bold text-sidebar-foreground">DoubleDock Global</span>
+                  <span className="text-lg font-bold text-sidebar-foreground">Dubbledok Global</span>
                 </div>
                 <p className="text-sidebar-foreground/70 text-sm">
                   Turning Data into Intelligent Decisions with tailored AI/ML solutions.
@@ -231,7 +231,7 @@ const Index = () => {
             {/* Copyright */}
             <div className="border-t border-sidebar-border mt-8 pt-8 text-center">
               <p className="text-sidebar-foreground/50 text-sm">
-                © 2025 DoubleDock Global. All rights reserved.
+                © 2026 Dubbledok Global. All rights reserved.
               </p>
             </div>
           </div>
