@@ -202,7 +202,7 @@ const Index = () => {
                 <ul className="space-y-3 text-sm text-sidebar-foreground/70">
                   <li>
                     <a href="mailto:doubledockglobal@gmail.com" className="hover:text-sidebar-foreground">
-                      doubledockglobal@gmail.com
+                      dubbledok@gmail.com
                     </a>
                   </li>
                   <li>
