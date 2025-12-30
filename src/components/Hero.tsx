@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { ArrowRight, Brain, Users, Award, Zap } from "lucide-react";
 import { Link } from "react-router-dom";
 import { useUser } from "@clerk/clerk-react";
-import logoPlaceholder from "../../public/logo.png"; // Placeholder for image1.png or image2.jpeg
+import logoPlaceholder from "../../public/logo.jpeg"; // Placeholder for image1.png or image2.jpeg
 
 const Hero = () => {
   const { isSignedIn } = useUser();

@@ -168,7 +168,7 @@ const Index = () => {
               {/* Brand */}
               <div>
                 <div className="flex items-center space-x-2 mb-4">
-                  <img src="/logo.jpg" alt="DoubleDock Global Logo" className="h-8 w-auto" />
+                  <img src="/logo.jpeg" alt="DoubleDock Global Logo" className="h-8 w-auto" />
                   <span className="text-lg font-bold text-sidebar-foreground">Dubbledok Global</span>
                 </div>
                 <p className="text-sidebar-foreground/70 text-sm">

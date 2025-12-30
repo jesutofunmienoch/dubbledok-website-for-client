@@ -11,7 +11,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import logoPlaceholder from "../../public/logo.png"; // Placeholder for image1.png or image2.jpeg
+import logoPlaceholder from "../../public/logo.jpeg"; // Placeholder for image1.png or image2.jpeg
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
